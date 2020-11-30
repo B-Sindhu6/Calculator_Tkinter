@@ -1,3 +1,6 @@
+# Code written by B. Sindhu
+# Simple GUI calculator using Tkinter in python
+
 import tkinter as tk
 import ctypes
 
